@@ -3,4 +3,6 @@ Purple
 Blue
 Yellow
 Orange
+Red
+Green
 These are colors in Rainbow
