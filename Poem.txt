@@ -5,4 +5,7 @@ Yellow
 Orange
 Red
 Green
+Pink
+Indigo
+Violet
 These are colors in Rainbow
